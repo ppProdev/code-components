@@ -1,5 +1,9 @@
 # Tag Picker
 
+Pickers are used to select one or more items, such as tags or files, from a large list.
+
+![picker.png](picker.png)
+
 The Tag Picker code component provides the following features:
 
 1. Binds to an input collection for the chosen tags
